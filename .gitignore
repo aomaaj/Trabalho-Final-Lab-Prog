@@ -1,0 +1,4 @@
+# Binarios e arquivos compilados
+*.exe
+*.bin
+reconstruida.pgm
